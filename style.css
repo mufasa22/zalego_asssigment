@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*nav bar styling starts*/
+.navbar{
+    background-color: #4bd7da;
+}
+.nav-link{
+    color: black;
+}
+.navbar-brand{
+    color: white;
+}
+/* nav bar styling ends */
+
+
+/* first section styling starts */
+.read-more{
+    color: #4bd7da;
+    font-size: smaller;
+    text-decoration: none;
+}
+.heading-blue{
+    color: #4bd7da;
+}
+
+/* first section styling ends */
+
+
+
+/* third section styling starts */
+.prog{
+    background-color: #4bd7da;
+}
+
+/* third section styling ends */
+
+/* footer section starts */
+.footer{
+    background-color: #d9d9d9;
+}
+.footer-ul{
+    text-decoration: none;
+}
+
+.lower-footer{
+    background-color: #111111;
+}
